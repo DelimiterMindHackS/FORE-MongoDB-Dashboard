@@ -1,12 +1,23 @@
 # FORE-MongoDB-Dashboard Project
 # Project Overview
 This repository contains a detailed sales analysis report for Madhav Enterprises, an e-commerce business that caters to customers across various cities in India. The report is based on data collected from a MongoDB sales dashboard, providing key insights into sales performance, customer behavior, and product profitability.
+
 # Files Included
 ## Dataset Used
 - Madhav.MergedData.json: Raw sales data extracted from the MongoDB database.
 - Madhav.Orders.json
 - Madhav.Details.json
 - Madhav Ecommerce Sales Dashboard.png: Visual representation of the sales dashboard with various charts.
+
+# Question(KPIs)
+- Profit by Payment Mode
+- Quantity by Category
+- Sales vs Profit by Month
+- Profit by Sub-Category
+- Top 4 States by Amount
+- Top Customers
+- Total Customers
+- Average Order Value
 
 # Key Insights
 - Profit by Payment Mode: Highest profits generated through UPI and Credit Card transactions.
