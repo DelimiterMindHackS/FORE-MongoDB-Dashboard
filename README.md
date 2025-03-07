@@ -6,7 +6,7 @@ This repository contains a detailed sales analysis report for Madhav Enterprises
 - Madhav.MergedData.json: Raw sales data extracted from the MongoDB database.
 - Madhav.Orders.json
 - Madhav.Details.json
-- Madhav Ecommerce Sales Dashboard.pdf: Visual representation of the sales dashboard with various charts.
+- Madhav Ecommerce Sales Dashboard.png: Visual representation of the sales dashboard with various charts.
 
 # Key Insights
 - Profit by Payment Mode: Highest profits generated through UPI and Credit Card transactions.
